@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I am an absolute beginner who is currently trying to self learn coding.
 
 <!--
 **bien373/bien373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
